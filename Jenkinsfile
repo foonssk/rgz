@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Print Message') {
             steps {
-                echo 'Hello, It's RGZ on AVS'
+                echo 'Hello, Its RGZ on AVS'
             }
         }
     }
